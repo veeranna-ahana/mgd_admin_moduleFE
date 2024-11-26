@@ -1,1 +1,1 @@
-# mgd_admin_moduleFE
+# Mgd_CustInfo_Frontend
